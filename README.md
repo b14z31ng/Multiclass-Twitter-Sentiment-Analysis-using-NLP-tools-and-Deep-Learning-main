@@ -102,13 +102,11 @@ Contributions are always welcome!
 
 ## 🚀 About Me
 
-This is Udoy Saha. I am a tech enthusiast and problem solver.
+This is Md. Reshad Romim Khan. I am a tech enthusiast and problem solver.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://udoysaha.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udoysaha103/)
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at udoysaha103@gmail.com.
+If you have any feedback, please reach out to me at reshadromim013@gmail.com
 
